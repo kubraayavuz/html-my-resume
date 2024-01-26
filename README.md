@@ -1,2 +1,1 @@
-# html-my-resume
-HTML - My Resume
+# HTML - My Resume
